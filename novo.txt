@@ -1,0 +1,5 @@
+olá esse é um texte para o uso do git 2022
+
+agora estamos alterando o arquivo!
+
+nova alteração
